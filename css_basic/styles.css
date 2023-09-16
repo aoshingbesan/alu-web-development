@@ -1,0 +1,18 @@
+.flexing {
+    display: flex;
+}
+
+.body_container {
+    flex-direction: column;
+}
+.main_container {
+    flex-direction: row;
+    flex: auto;
+}
+article {
+    flex: 2;
+    overflow-y: auto;
+}
+aside {
+    flex: 1;
+    overflow-y: auto;
