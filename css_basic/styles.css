@@ -25,18 +25,18 @@ header {
 }
 footer {
     background-color: #FAFAFA;
-    border-radius: 10px;
+    'border-radius: 10px;
     border: 2px inset #F0F0F0;
 }
 article {
     background-color:#FAFAFA;
     border-radius: 20px;
-    border: 4px #0B2D55;
+    border: 4px dotted #0B2D55;
 }
 aside {
     background-color: #FAFAFA;
     border-radius: 20px;
-    border: 4px dotted #F0F0F0;
+    border: 4px #F0F0F0;
 }
 
 .unordered {
