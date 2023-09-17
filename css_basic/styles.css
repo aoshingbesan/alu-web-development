@@ -25,8 +25,8 @@ header {
 }
 footer {
     background-color: #FAFAFA;
-    border-radius: 20px;
-    border: 4px inset #F0F0F0;
+    border-radius: 10px;
+    border: 2px inset #F0F0F0;
 }
 article {
     background-color:#FAFAFA;
@@ -36,7 +36,7 @@ article {
 aside {
     background-color: #FAFAFA;
     border-radius: 20px;
-    border: 4px groove #F0F0F0;
+    border: 4px dotted #F0F0F0;
 }
 
 .unordered {
@@ -46,7 +46,7 @@ aside {
 .main {
     background-color: #FAFAFA;
     border-radius: 5px;
-    border: 2px dotted #F0F0F0;
+    border: 2px #F0F0F0;
 }
 
 .tweets {

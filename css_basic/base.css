@@ -1,8 +1,8 @@
 /* Importing webfonts */
 /* (If you're learning CSS, you should disregard that) */
 
-@import url(https://fonts.googleapis.com/css?family=Redhatdisplay);
-@import url(https://fonts.googleapis.com/css?family=poppins);
+@import url(https://fonts.googleapis.com/css?family=Red Hat Display);
+@import url(https://fonts.googleapis.com/css?family=Poppins);
 
 
 /* CSS reset rules */
@@ -56,11 +56,11 @@ table {
 /* Fonts and colors */
 
 body {
-	font-family: 'Josefin Sans', serif;
+	font-family: 'Poppins', sans-serif;
 	color: rgba(0, 0, 0, 0.8);
 }
 h1, h2, h3, h4, h5, h6, header {
-	font-family: 'Yeseva One', sans-serif;
+	font-family: 'Red Hat Display', sans-serif;
 }
 article {
 }
@@ -113,7 +113,7 @@ header .right {
 
 /* Header */
 header {
-	padding: 20px 0;
+	padding: 30px 0;
 	height: 80px;
 }
 header ul {
@@ -123,7 +123,7 @@ header ul {
 }
 header li {
 	display: inline;
-	vertical-align:middle;
+	vertical-align:left;
 }
 header li:first-child {
 	margin: 0;
