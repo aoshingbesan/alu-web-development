@@ -1,7 +1,7 @@
 /* Importing webfonts */
 /* (If you're learning CSS, you should disregard that) */
 
-@import url(https://fonts.googleapis.com/css?family=Red Hat Display);
+@import url(https://fonts.googleapis.com/css?family=RedHatDisplay);
 @import url(https://fonts.googleapis.com/css?family=Poppins);
 
 
@@ -123,7 +123,7 @@ header ul {
 }
 header li {
 	display: inline;
-	vertical-align:middle;
+	vertical-align:none;
 }
 header li:first-child {
 	margin: 0;
