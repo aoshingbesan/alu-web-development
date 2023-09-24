@@ -19,5 +19,11 @@ You are not allowed to install, import or use external libraries. This website m
 Your code should be W3C compliant and validate with W3C-Validator
 
 **Layout**
+ <a href="#">
+            <img src="./Images/Sample website layout.jpg" alt="logo">
+            </a>
 
 **Final Result**
+<a href="#">
+            <img src="./Images/Sample Website.jpg" alt="logo">
+            </a>
