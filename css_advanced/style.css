@@ -299,10 +299,11 @@ header{
     display: flex;
     flex-direction: row;
 }
+.register_for_free {
+    color: #C271FF;
+}
 .fourth_section button {
-    width: 162px;
-    height: 44px;
-    flex-shrink: 0;
+   
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.50);
     position: relative;
     left: 43%;
@@ -353,7 +354,7 @@ header{
     color: #071629;
     font-size: 60px;
     font-family: "Source Sans Pro", sans-serif;
-    font-weight: 300;
+    font-weight: 600;
     word-wrap: break-word;
 }
 .fifth_section_in_div h2 {
